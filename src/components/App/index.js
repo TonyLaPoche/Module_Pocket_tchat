@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="app">
       <img src={reactLogo} alt="react logo" />
-      <h1>Composant : App</h1>
+      <h1>Composant : The App</h1>
     </div>
   );
 }
